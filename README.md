@@ -19,9 +19,8 @@ An Android app with a landing page that provides easy access to an external port
 ## Prerequisites
 To set up the project, ensure the following are installed on your machine:
 
-- **JDK Version**: [Java 21.0.5 LTS](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
-- **Android Studio**: Version 2022.3 or later
-- **Gradle**: Version 8.0 or later
+- **JDK Version**: [Java 21.0.5 LTS](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html), or a version compatible with Android Studio.
+- **Android Studio Ladybug**: [Android Studio Ladybug Latest](https://developer.android.com/studio).
 
 ---
 
@@ -29,6 +28,28 @@ To set up the project, ensure the following are installed on your machine:
 Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
-```bash
-git clone https://joeclos-admin@bitbucket.org/joeclos/my-mini-portfolio.git
+    
+---     
+    # git clone https://joeclos-admin@bitbucket.org/joeclos/my-mini-portfolio.git
+---     
+### 2. Configure JDK
+
+1. Open Android Studio.
+2. Navigate to File > Project Structure.
+3. Under SDK Location, configure the JDK path to point to Java 21.0.5.
+
+### 3. Open the Project
+
+1. In Android Studio, select **Open an Existing Project**.
+2. Navigate to the cloned repository and open it.
+
+### 4. Sync Gradle
+
+- Android Studio will prompt you to sync Gradle. Click **Sync Now**.
+
+### 5. Run the App
+
+1. Connect an Android device or launch an emulator.
+2. Click the **Run** button to run the app.
+
 
