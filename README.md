@@ -6,6 +6,7 @@ Welcome to the **Mini Portfolio** project! This is an Android app with a landing
 
 ## Table of Contents
 
+
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
 3. [Setup Instructions](#setup-instructions)
