@@ -14,6 +14,8 @@ Welcome to the **Mini Portfolio** project! This is an Android app with a landing
 
 ---
 
+
+<a name="features"></a>
 ## Features
 - **Landing Page**: The app opens to a landing page with:
     - A **heading** introducing the app.
@@ -26,6 +28,8 @@ Welcome to the **Mini Portfolio** project! This is an Android app with a landing
 
 ---
 
+
+<a name="prerequisites"></a>
 ## Prerequisites
 To set up the project, ensure the following are installed on your machine:
 
@@ -34,6 +38,10 @@ To set up the project, ensure the following are installed on your machine:
 
 ---
 
+
+
+
+<a name="setup-instructions"></a>
 ## Setup Instructions
 Follow these steps to run the project locally:
 
