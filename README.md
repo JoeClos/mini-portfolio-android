@@ -1,6 +1,15 @@
-# Mini portfolio - Basic Android App
+# Mini Portfolio - Basic Android App
 
-An Android app with a landing page that provides easy access to an external portfolio and an in-app "About Me" section. This app serves as a digital profile showcase.
+Welcome to the **Mini Portfolio** project! This is an Android app with a landing page that provides easy access to an external portfolio and an in-app "About Me" section. This app serves as a digital profile showcase.
+
+---
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Prerequisites](#prerequisites)
+3. [Setup Instructions](#setup-instructions)
+
 
 ---
 
