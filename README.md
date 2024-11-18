@@ -4,6 +4,13 @@ Welcome to the **Mini Portfolio** project! This is an Android app with a landing
 
 ---
 
+
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/ddfad7b9-dd65-4ab8-bc72-a19bb8d44654" width=20% height=20%>
+
+<img src="https://github.com/user-attachments/assets/3f4cc276-ec2d-4a71-9ba9-4fe3aa44ad9e" width=20% height=20%>
+
 ## Table of Contents
 
 
@@ -48,7 +55,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
     
 ---     
-    # git clone https://joeclos-admin@bitbucket.org/joeclos/my-mini-portfolio.git
+    # git clone https://github.com/JoeClos/mini-portfolio-android.git
 ---     
 ### 2. Configure JDK
 
@@ -69,5 +76,3 @@ Follow these steps to run the project locally:
 
 1. Connect an Android device or launch an emulator.
 2. Click the **Run** button to run the app.
-
-
